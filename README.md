@@ -19,3 +19,6 @@ Our goals for this project include:
 
 
 -Creating a tool that can be used to help minimize risk associate with Carter Center program implementation
+
+![Carter Center Image](https://user-images.githubusercontent.com/78614695/154821547-76c1d91f-a03b-4cbf-9235-08b630e1b925.png)
+
